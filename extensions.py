@@ -1,6 +1,6 @@
 import requests
 import json
-from Bogovin_config import keys
+from config import keys
 
 
 class APIException(Exception):
