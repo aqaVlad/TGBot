@@ -51,4 +51,6 @@
 - и возвращает нужную сумму в валюте.
 <br>
 Все классы находятся в файле <br>
-- [extensions.py](TGBot/extensions.py) 
+
+[extensions.py](TGBot/extensions.py)
+
