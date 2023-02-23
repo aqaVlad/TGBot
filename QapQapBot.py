@@ -1,12 +1,11 @@
 # QapQapBot
 import telebot
 import requests
-from Bogovin_config import keys, currency, TOKEN
-from Bogovin_extensions import APIException, CryptoConverter
+from config import keys, currency, TOKEN
+from extensions import APIException, CryptoConverter
 
 
 bot = telebot.TeleBot(TOKEN)
-# или bot = telebot.TeleBot(5824382331:AAF87B5cT-PF3JemEdAK08Dx-xgluSJg_M8)
 
 
 
